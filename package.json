@@ -1,5 +1,5 @@
 {
-  "name": "truffle-hdwallet-provider",
+  "name": "truffle-hdwallet-provider-1",
   "version": "0.0.7-beta.0",
   "description": "HD Wallet-enabled Web3 provider",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trufflesuite/truffle-hdwallet-provider.git"
+    "url": "git+https://github.com/AmrEShaker/truffle-hdwallet-provider.git"
   },
   "keywords": [
     "etheruem",
