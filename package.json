@@ -1,5 +1,5 @@
 {
-  "name": "truffle-hdwallet-provider-1",
+  "name": "truffle-hdwallet-provider-websocket",
   "version": "0.0.7-beta.0",
   "description": "HD Wallet-enabled Web3 provider",
   "main": "index.js",
@@ -20,9 +20,9 @@
   "author": "Tim Coulter <tim.coulter@consensys.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trufflesuite/truffle-hdwallet-provider/issues"
+    "url": "https://github.com/AmrEShaker/truffle-hdwallet-provider.git"
   },
-  "homepage": "https://github.com/trufflesuite/truffle-hdwallet-provider#readme",
+  "homepage": "https://github.com/AmrEShaker/truffle-hdwallet-provider.git",
   "dependencies": {
     "bip39": "^2.2.0",
     "ethereumjs-wallet": "0.6.0",
